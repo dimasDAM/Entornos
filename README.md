@@ -1,1 +1,2 @@
-## Git inicializado y añadido
+## Git inicializado y añadido.
+## Prueba 1
